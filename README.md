@@ -29,8 +29,37 @@ I’m open to internship or junior developer opportunities to expand my experien
   My solutions for various programming problems to improve logical thinking.
 
 
-## 🌱 Currently Learning
-Enhancing my programming skills and Git workflow, aiming to contribute to larger and more complex projects.
+### 🏆 Achievements & Certificates
+
+- 🎓 Programming Foundations - Level 1
+- 🎓 Algorithms & Problem-Solving Level 1
+- 🎓 Programming Using C++ - Level 1
+- 🎓 Algorithms & Problem-Solving Level 1 Solutions
+- 🎓 Algorithms & Problem-Solving Level 2
+- 🎓 Introduction to Programming Using C++ Level 2
+- 🎓 Algorithms & Problem Solving Level 3
+- 🎓 Algorithms & Problem Solving Level 4
+- 🎓 Foundations Level 2
+- 🎓 OOP (Concepts)
+- 🎓 OOP (Applications)
+- 🎓 Data Structures - Level 1
+
+
+### 🔨 Currently Working On
+
+- 🖥️ Algorithms & Problem Solving Level 5
+- 🖥️ C# - Level 1
+- 🖥️ Database Level 1 - SQL (Concepts and Practice)
+- 🖥️ C# OPP
+- 🖥️ Database - SQL ( Projects & Practice)
+- 🖥️ C# & Database Connectivity
+- 🖥️ Full Real Project
+- 🖥️ C# Programming Level 2
+- 🖥️ Database Level2 - Concepts & T-SQL
+- 🖥️ Data Structures Level 2 in C#
+- 🖥️ Algorithms Level 6
+- 🖥️ Windows Services
+- 🖥️ Introduction to RESTful API
 
 ### 🌐 Connect with Me
 <p align="left">
