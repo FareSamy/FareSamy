@@ -18,17 +18,6 @@ I’m open to internship or junior developer opportunities to expand my experien
 - Object-Oriented Programming (OOP)
 - Microsoft Visual Studio C++
 
-### 🚀 Projects
-- 🧾 **Customer Management System (C++)**  
-  CRUD operations, file handling, and account transactions using OOP.
-
-- 🧮 **Mini Banking System (C++)**  
-  Manage users, login system, and financial operations simulation.
-
-- 🧠 **Algorithm Practice Repo**  
-  My solutions for various programming problems to improve logical thinking.
-
-
 ### 🏆 Achievements & Certificates
 
 - 🎓 Programming Foundations - Level 1
