@@ -1,6 +1,10 @@
 # Hi there! I'm Fares Samy 👋
 
-I'm a passionate C++ developer focused on problem-solving and building effective solutions. Currently, I'm working on improving my C++ skills and developing practical projects.
+I’m a passionate C++ developer who enjoys learning by building real-world projects. Although my academic background isn’t in computer science, I’ve developed a solid understanding of programming concepts and Object-Oriented Programming through self-study and hands-on practice.
+
+Still Learning about C++ using OOP principles, file handling, and modular design. I’m always eager to improve my skills, explore new technologies, and collaborate with others.
+
+I’m open to internship or junior developer opportunities to expand my experience.
 
 ## 🛠 Technical Skills
 
@@ -8,18 +12,28 @@ I'm a passionate C++ developer focused on problem-solving and building effective
 - Data Structures & Algorithms
 - File Handling
 - Git & GitHub
+- Functional Programming
+- Code Optimization
+- Debugging Code
+- Object-Oriented Programming (OOP)
+- Microsoft Visual Studio C++
 
-## 🚀 Key Projects
+### 🚀 Projects
+- 🧾 **Customer Management System (C++)**  
+  CRUD operations, file handling, and account transactions using OOP.
 
-### 1. Bank Management System
-A C++ system to manage clients, accounts, and financial transactions with file storage.
+- 🧮 **Mini Banking System (C++)**  
+  Manage users, login system, and financial operations simulation.
 
-### 2. Hello GitHub
-An introductory project to explore and get familiar with GitHub environment.
+- 🧠 **Algorithm Practice Repo**  
+  My solutions for various programming problems to improve logical thinking.
+
 
 ## 🌱 Currently Learning
 Enhancing my programming skills and Git workflow, aiming to contribute to larger and more complex projects.
 
-## 📫 Get in Touch
-- [Facebook](https://www.facebook.com/Fares.Samy1)
-- [Email](fares.samy1@gmail.com)
+### 🌐 Connect with Me
+<p align="left">
+<a href="https://www.linkedin.com/in/faresamy/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="40" width="40" /></a>
+<a href="fares.samy1@gmail.com"><img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="email" height="35" width="35" /></a>
+</p>
