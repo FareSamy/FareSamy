@@ -32,11 +32,11 @@ I’m open to internship or junior developer opportunities to expand my experien
 - 🎓 OOP (Concepts)
 - 🎓 OOP (Applications)
 - 🎓 Data Structures - Level 1
+- 🎓 Algorithms & Problem Solving Level 5
 
 
 ### 🔨 Currently Working On
 
-- 🖥️ Algorithms & Problem Solving Level 5
 - 🖥️ C# - Level 1
 - 🖥️ Database Level 1 - SQL (Concepts and Practice)
 - 🖥️ C# OPP
