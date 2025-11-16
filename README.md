@@ -1,57 +1,65 @@
-# Hi there! I'm Fares Samy 👋
+<h1 align="center">Fares Samy</h1>
 
-I’m a passionate C++ developer who enjoys learning by building real-world projects. Although my academic background isn’t in computer science, I’ve developed a solid understanding of programming concepts and Object-Oriented Programming through self-study and hands-on practice.
+###
 
-Still Learning about C++ using OOP principles, file handling, and modular design. I’m always eager to improve my skills, explore new technologies, and collaborate with others.
+<h3 align="left">I’m a passionate C++ developer who enjoys learning by building real-world projects. Although my academic background isn’t in computer science, I’ve developed a solid understanding of programming concepts and Object-Oriented Programming through self-study and hands-on practice.<br><br>Still Learning about C++ using OOP principles, file handling, and modular design. I’m always eager to improve my skills, explore new technologies, and collaborate with others.<br><br>I’m open to internship or junior developer opportunities to expand my experience.</h3>
 
-I’m open to internship or junior developer opportunities to expand my experience.
+###
 
-## 🛠 Technical Skills
+<h2 align="left">🛠 Technical Skills</h2>
 
-- C++
-- Data Structures & Algorithms
-- File Handling
-- Git & GitHub
-- Functional Programming
-- Code Optimization
-- Debugging Code
-- Object-Oriented Programming (OOP)
-- Microsoft Visual Studio C++
+###
 
-### 🏆 Achievements & Certificates
+<h3 align="left">⭐C++<br>⭐Data Structures & Algorithms<br>⭐File Handling<br>⭐Git & GitHub<br>⭐Functional Programming<br>⭐Code Optimization<br>⭐Debugging Code<br>⭐Object-Oriented Programming ⭐(OOP)<br>⭐Microsoft Visual Studio C++</h3>
 
-- 🎓 Programming Foundations - Level 1
-- 🎓 Algorithms & Problem-Solving Level 1
-- 🎓 Programming Using C++ - Level 1
-- 🎓 Algorithms & Problem-Solving Level 1 Solutions
-- 🎓 Algorithms & Problem-Solving Level 2
-- 🎓 Introduction to Programming Using C++ Level 2
-- 🎓 Algorithms & Problem Solving Level 3
-- 🎓 Algorithms & Problem Solving Level 4
-- 🎓 Foundations Level 2
-- 🎓 OOP (Concepts)
-- 🎓 OOP (Applications)
-- 🎓 Data Structures - Level 1
-- 🎓 Algorithms & Problem Solving Level 5
+###
 
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+</div>
 
-### 🔨 Currently Working On
+###
 
-- 🖥️ C# - Level 1
-- 🖥️ Database Level 1 - SQL (Concepts and Practice)
-- 🖥️ C# OPP
-- 🖥️ Database - SQL ( Projects & Practice)
-- 🖥️ C# & Database Connectivity
-- 🖥️ Full Real Project
-- 🖥️ C# Programming Level 2
-- 🖥️ Database Level2 - Concepts & T-SQL
-- 🖥️ Data Structures Level 2 in C#
-- 🖥️ Algorithms Level 6
-- 🖥️ Windows Services
-- 🖥️ Introduction to RESTful API
+<h2 align="left">🏆 Achievements & Certificates</h2>
 
-### 🌐 Connect with Me
-<p align="left">
-<a href="https://www.linkedin.com/in/faresamy/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="40" width="40" /></a>
-<a href="fares.samy1@gmail.com"><img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="email" height="35" width="35" /></a>
-</p>
+###
+
+<h3 align="left">🎓 Programming Foundations - Level 1<br>🎓 Algorithms & Problem-Solving Level 1<br>🎓 Programming Using C++ - Level 1<br>🎓 Algorithms & Problem-Solving Level 1 Solutions<br>🎓 Algorithms & Problem-Solving Level 2<br>🎓 Introduction to Programming Using C++ Level 2<br>🎓 Algorithms & Problem Solving Level 3<br>🎓 Algorithms & Problem Solving Level 4<br>🎓 Foundations Level 2<br>🎓 OOP (Concepts)<br>🎓 OOP (Applications)<br>🎓 Data Structures - Level 1<br>🎓 Algorithms & Problem Solving Level 5</h3>
+
+###
+
+<h2 align="left">🔨 Currently Working On</h2>
+
+###
+
+<h3 align="left">🖥️ C# - Level 1<br>🖥️ Database Level 1 - SQL (Concepts and Practice)<br>🖥️ C# OPP<br>🖥️ Database - SQL ( Projects & Practice)<br>🖥️ C# & Database Connectivity<br>🖥️ Full Real Project<br>🖥️ C# Programming Level 2<br>🖥️ Database Level2 - Concepts & T-SQL<br>🖥️ Data Structures Level 2 in C#<br>🖥️ Algorithms Level 6<br>🖥️ Windows Services<br>🖥️ Introduction to RESTful API</h3>
+
+###
+
+<h2 align="left">Connect with Me</h2>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/faresamy/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="fares.samy1@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  <a href="+201156799883" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+  </a>
+</div>
+
+###
