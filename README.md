@@ -10,7 +10,7 @@
 
 ###
 
-<h3 align="left">⭐C++<br>⭐Data Structures & Algorithms<br>⭐File Handling<br>⭐Git & GitHub<br>⭐Functional Programming<br>⭐Code Optimization<br>⭐Debugging Code<br>⭐Object-Oriented Programming ⭐(OOP)<br>⭐Microsoft Visual Studio C++</h3>
+<h3 align="left">⭐C++<br>⭐Data Structures & Algorithms<br>⭐File Handling<br>⭐Git & GitHub<br>⭐Functional Programming<br>⭐Code Optimization<br>⭐Debugging Code<br>⭐Object-Oriented Programming (OOP)<br>⭐Microsoft Visual Studio C++</h3>
 
 ###
 
