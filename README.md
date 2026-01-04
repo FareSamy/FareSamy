@@ -34,7 +34,7 @@
 
 ###
 
-<h3 align="left">🎓 Programming Foundations - Level 1<br>🎓 Algorithms & Problem-Solving Level 1<br>🎓 Programming Using C++ - Level 1<br>🎓 Algorithms & Problem-Solving Level 1 Solutions<br>🎓 Algorithms & Problem-Solving Level 2<br>🎓 Introduction to Programming Using C++ Level 2<br>🎓 Algorithms & Problem Solving Level 3<br>🎓 Algorithms & Problem Solving Level 4<br>🎓 Foundations Level 2<br>🎓 OOP (Concepts)<br>🎓 OOP (Applications)<br>🎓 Data Structures - Level 1<br>🎓 Algorithms & Problem Solving Level 5 1<br>🎓 C# Level 1</h3>
+<h3 align="left">🎓 Programming Foundations - Level 1<br>🎓 Algorithms & Problem-Solving Level 1<br>🎓 Programming Using C++ - Level 1<br>🎓 Algorithms & Problem-Solving Level 1 Solutions<br>🎓 Algorithms & Problem-Solving Level 2<br>🎓 Introduction to Programming Using C++ Level 2<br>🎓 Algorithms & Problem Solving Level 3<br>🎓 Algorithms & Problem Solving Level 4<br>🎓 Foundations Level 2<br>🎓 OOP (Concepts)<br>🎓 OOP (Applications)<br>🎓 Data Structures - Level 1<br>🎓 Algorithms & Problem Solving Level 5 1<br>🎓 C# Level<br>🎓 Database Level 1 - SQL (Concepts and Practice) 1</h3>
 
 ###
 
@@ -42,7 +42,7 @@
 
 ###
 
-<h3 align="left"><br>🖥️ Database Level 1 - SQL (Concepts and Practice)<br>🖥️ C# OPP<br>🖥️ Database - SQL ( Projects & Practice)<br>🖥️ C# & Database Connectivity<br>🖥️ Full Real Project<br>🖥️ C# Programming Level 2<br>🖥️ Database Level2 - Concepts & T-SQL<br>🖥️ Data Structures Level 2 in C#<br>🖥️ Algorithms Level 6<br>🖥️ Windows Services<br>🖥️ Introduction to RESTful API</h3>
+<h3 align="left"><br>🖥️ C# OPP<br>🖥️ Database - SQL ( Projects & Practice)<br>🖥️ C# & Database Connectivity<br>🖥️ Full Real Project<br>🖥️ C# Programming Level 2<br>🖥️ Database Level2 - Concepts & T-SQL<br>🖥️ Data Structures Level 2 in C#<br>🖥️ Algorithms Level 6<br>🖥️ Windows Services<br>🖥️ Introduction to RESTful API</h3>
 
 ###
 
