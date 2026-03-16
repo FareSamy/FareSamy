@@ -2,7 +2,11 @@
 
 ###
 
-<h3 align="left">I’m a passionate C++ developer who enjoys learning by building real-world projects. Although my academic background isn’t in computer science, I’ve developed a solid understanding of programming concepts and Object-Oriented Programming through self-study and hands-on practice.<br><br>Still Learning about C++ using OOP principles, file handling, and modular design. I’m always eager to improve my skills, explore new technologies, and collaborate with others.<br><br>I’m open to internship or junior developer opportunities to expand my experience.</h3>
+<h3 align="left">I’m a passionate developer who enjoys learning by building real-world projects. Although my academic background isn’t in computer science, I’ve developed a solid understanding of programming concepts and Object-Oriented Programming through self-study and hands-on practice.
+
+Still Learning about C++ and C# using OOP and merging database (SQL Server)and code using ADO.NET principles and 3-tier architecture, file handling, and modular design. I’m always eager to improve my skills, explore new technologies, and collaborate with others.
+
+I’m open to internship or junior developer opportunities to expand my experience.</h3>
 
 ###
 
